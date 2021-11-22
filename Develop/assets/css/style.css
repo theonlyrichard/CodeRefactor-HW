@@ -62,7 +62,7 @@ p {
 
 /* ---------- Main content ---------- */
 
-.mainContent {   /* Main content format (without aside or benefits content */
+.mainContent {   
     width: 75%;
     display: inline-block;
     margin-left: 20px;
